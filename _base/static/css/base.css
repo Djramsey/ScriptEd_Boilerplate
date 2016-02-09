@@ -42,3 +42,8 @@ a {
   color: #000;
   text-decoration: none;
 }
+header{
+  background-color: gray;
+  background-image: url('https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiBwJyPzuvKAhXHVz4KHf-UAWAQjRwIBw&url=http%3A%2F%2Fgaming.gentside.com%2Fsuper-smash-bros-melee%2Fwallpaper&psig=AFQjCNHnI55lqRsdcrr18lH_ASQXwnFmuA&ust=1455139100392807');
+}
+
