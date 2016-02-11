@@ -1,0 +1,16 @@
+ #header {
+   
+    text-align:center;
+    height:300px;
+    width:80%;
+    position:center;
+    margin: auto;
+    background-color:aqua;
+  background: url("http://smashfts.files.wordpress.com/2015/02/wpid-super_smash_bros__melee_by_abfdghafdg-d5lmrnd.png") no-repeat center center fixed;
+   background-size: fill;
+ }
+ #life {
+     text-align:center;
+     color:Red;
+     
+ }
